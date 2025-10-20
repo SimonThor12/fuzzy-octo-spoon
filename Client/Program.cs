@@ -1,2 +1,2 @@
-﻿using var game = new Client.Game1();
+﻿using var game = new Client.Client();
 game.Run();
